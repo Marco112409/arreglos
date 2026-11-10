@@ -1,0 +1,2 @@
+# arreglos
+USO DE GIT Y GITHUB CON RAMAS
